@@ -1,0 +1,54 @@
+{
+    "store": {
+        "listings":[
+            {
+                "id":1,
+                "title":"Test 00",
+                "description":"Una planta",
+                "price": 1000,
+                "seller": "Ty Sandoval",
+                "rating": 5
+            },
+            {
+                "id":2,
+                "title":"Test 01",
+                "description":"Una planta",
+                "price": 1000,
+                "seller": "Ty Sandoval",
+                "rating": 5
+            },
+            {
+                "id":3,
+                "title":"Test 02",
+                "description":"Una planta",
+                "price": 1000,
+                "seller": "Ty Sandoval",
+                "rating": 5
+            },
+            {
+                "id":4,
+                "title":"Test 03",
+                "description":"Una planta",
+                "price": 1000,
+                "seller": "Ty Sandoval",
+                "rating": 5
+            },
+            {
+                "id":5,
+                "title":"Test 04",
+                "description":"Una planta",
+                "price": 1000,
+                "seller": "Ty Sandoval",
+                "rating": 5
+            },
+            {
+                "id":6,
+                "title":"Test 05",
+                "description":"Una planta",
+                "price": 1000,
+                "seller": "Ty Sandoval",
+                "rating": 5
+            }
+        ]
+    }
+}
